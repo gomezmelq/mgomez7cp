@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mgomez7cp/static/css/main.a617e044.chunk.css",
+    "main.js": "/mgomez7cp/static/js/main.aafde4fc.chunk.js",
+    "main.js.map": "/mgomez7cp/static/js/main.aafde4fc.chunk.js.map",
+    "runtime-main.js": "/mgomez7cp/static/js/runtime-main.9cfff88b.js",
+    "runtime-main.js.map": "/mgomez7cp/static/js/runtime-main.9cfff88b.js.map",
+    "static/js/2.8f81bef3.chunk.js": "/mgomez7cp/static/js/2.8f81bef3.chunk.js",
+    "static/js/2.8f81bef3.chunk.js.map": "/mgomez7cp/static/js/2.8f81bef3.chunk.js.map",
+    "static/js/3.6c50cbc8.chunk.js": "/mgomez7cp/static/js/3.6c50cbc8.chunk.js",
+    "static/js/3.6c50cbc8.chunk.js.map": "/mgomez7cp/static/js/3.6c50cbc8.chunk.js.map",
+    "index.html": "/mgomez7cp/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/mgomez7cp/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.8f81bef3.chunk.js.LICENSE.txt": "/mgomez7cp/static/js/2.8f81bef3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/mgomez7cp/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9cfff88b.js",
+    "static/js/2.8f81bef3.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.aafde4fc.chunk.js"
+  ]
+}
